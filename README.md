@@ -29,4 +29,4 @@ Every Software target in this portfolio undergoes a standardized technical evalu
 4. **Impact Modeling:** Translating technical gaps into executive risk metrics and CRA/NIS2 compliance roadmaps.
 
 
-📫 **Let's secure your supply chain:** [LinkedIn](https://www.linkedin.com/in/dario-omerdic/) | [X / Twitter](https://x.com/IAMComDala)
+📫 **Let's secure your supply chain:** [LinkedIn](https://www.linkedin.com/in/dario-omerdic/)
