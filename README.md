@@ -2,8 +2,6 @@
 
 **Technical Software GRC Consultant | Microsoft IAM Architect (SC-300)**
 
-![Microsoft Azure](https://shields.io) ![Microsoft Entra ID](https://shields.io) ![Active Directory](https://shields.io) ![PowerShell](https://shields.io) ![Linux](https://shields.io) ![Microsoft Defender](https://shields.io) ![Cybersecurity](https://shields.io) ![EU Compliance](https://shields.io) ![Jira](https://shields.io) ![Git](https://shields.io)
-
 I bridge the gap between Microsoft Identity Governance and Open-Source Supply Chain Risk. I specialize in auditing codebase infrastructures against stringent European digital sovereignty laws (CRA, NIS2, DORA, and MiCA) to protect enterprise clients from critical compliance liabilities.
 
 ### 🇪🇺 [European Open-Source Software GRC Portfolio](https://github.com/ComDala/european-oss-software-grc-portfolio)
