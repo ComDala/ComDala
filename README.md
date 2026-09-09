@@ -11,8 +11,8 @@ My primary technical showcase featuring codebase analyses, CI/CD pipeline review
 
 ### 🔐 Identity & Access Management (IAM)
 Architectural blueprints and governance configurations for enterprise identity security.
-* **[COMING SOON]:** *Automating Entra ID Conditional Access for GitHub Developers*
-* **[COMING SOON]:** *Secure Cross-Border Developer Access Pipelines*
+* [COMING SOON]: *Automating Entra ID Conditional Access for GitHub Developers*
+* [COMING SOON]: *Secure Cross-Border Developer Access Pipelines*
 
 ### 🛠️ Audit Methodology
 Every Software target in this portfolio undergoes a standardized technical evaluation:
