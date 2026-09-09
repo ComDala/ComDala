@@ -25,4 +25,4 @@ Every Software target in this portfolio undergoes a standardized technical evalu
 📫 **Let's secure your supply chain:** [LinkedIn](https://me.linkedin.com/in/dario-omerdic) | [X / Twitter](YOUR_LINK)
 
 ### 📊 GitHub Analytics
-![ComDala's GitHub stats](https://github-readme-stats.vercel.app/api?username=ComDala&show_icons=true&theme=transparent&hide_border=true&title_color=3399ff)
+![ComDala's GitHub stats](https://vercel.app)
