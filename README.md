@@ -1,32 +1,40 @@
 # IAMComDala 🛡️
 
-**Technical Software GRC Consultant | Microsoft IAM Architect (SC-300)**
+**Microsoft IAM Engineer | Software Supply Chain and Product Security GRC | CRA and NIS2 Readiness**
 
-I bridge the gap between Microsoft Identity Governance and Open-Source Supply Chain Risk. I specialize in auditing codebase infrastructures against stringent European digital sovereignty laws (CRA, NIS2, DORA, and MiCA) to protect enterprise clients from critical compliance liabilities.
+I work at the intersection of Microsoft identity governance and software supply chain assurance. Alongside my hands-on Entra ID and Microsoft 365 work, I am building an independent practice for evidence-based assessments of open-source software, CI/CD controls, dependency governance, vulnerability handling, and enterprise IAM integration.
 
-### 🇪🇺 [European Open-Source Software GRC Portfolio](https://github.com/ComDala/european-oss-software-grc-portfolio)
+## 🇪🇺 European Open-Source Software GRC Portfolio
 
-My primary technical showcase featuring codebase analyses, CI/CD pipeline reviews, and regulatory mappings for major European open-source ecosystems.
-* **Core Focus:** Cyber Resilience Act (CRA) | NIS2 Article 21 | DORA | Software Bill of Materials (SBOM)
-* **Current Audit Targets:** `Nextcloud`, `Proxmox VE`, `Keycloak`, `openDesk`
+[View the portfolio roadmap](https://github.com/ComDala/european-oss-software-grc-portfolio)
 
+The portfolio documents independent, public-source technical readiness assessments. Each completed case will identify the exact repository version and commit reviewed, preserve reproducible evidence, explain assessment limitations, and map relevant observations to the CRA, NIS2, and other frameworks only where the scope supports that mapping.
 
-### 🔐 Identity & Access Management (IAM)
+**Current focus**
 
-Architectural deployments, engineering policies, and access governance configurations for enterprise security.
+- Software bills of materials and dependency governance
+- CI/CD and repository security controls
+- Coordinated vulnerability disclosure and vulnerability handling
+- Release integrity and secure development practices
+- OIDC, SAML, privileged access, secrets, and workload identities
+- Technical evidence collection and regulatory control mapping
 
-* **Tenant-Wide Privileged Access Management (PIM):** Designed and deployed Microsoft Entra PIM to eliminate permanent standing admin rights, enforcing time-bound, MFA-gated, and Jira-tracked approval workflows for audit readiness.
-* **Enterprise Access Governance & Reviews:** Conducted comprehensive end-to-end access reviews across 12 enterprise applications, executing least-privilege enforcement by revoking access for unvalidated use cases.
-* **Perimeter Email Security & Domain Validation:** Managed anti-spam and spoof-intelligence frameworks via Microsoft Defender, conducting explicit SPF, DKIM, and DMARC verification to protect trusted external communication pathways.
-* **M365 Tenant Migration & Lifecycle Operations:** Collaborated on multi-domain migration readiness checklists, analyzed GUID-bound licensing continuity constraints, and optimized tenant infrastructure by purging orphaned, unlicensed accounts.
+## 🔐 Identity and Access Management
 
-### 🛠️ Audit Methodology
+- **Privileged access:** Designed and deployed Microsoft Entra Privileged Identity Management to reduce standing administrative access through time-bound, MFA-gated activation and approval workflows.
+- **Access governance:** Performed access reviews across enterprise applications and supported least-privilege remediation.
+- **Microsoft 365 security:** Managed identity, email-security, domain-authentication, lifecycle, and tenant-administration controls.
+- **Tenant operations:** Supported multi-domain and cross-tenant identity work, including account lifecycle, licensing, access mapping, and migration readiness.
 
-Every Software target in this portfolio undergoes a standardized technical evaluation:
-1. **Architectural & Codebase Ingestion:** Mapping system boundaries, data paths, and component dependencies.
-2. **Policy & Governance Verification:** Auditing SECURITY.md pathways, SLA commitments, and license compliance.
-3. **Supply Chain Triage:** Analyzing package registries and lockfiles for active CVE exposure and missing SBOMs.
-4. **Impact Modeling:** Translating technical gaps into executive risk metrics and CRA/NIS2 compliance roadmaps.
+## 🛠️ Assessment Approach
 
+1. Define the target, version, repositories, intended use case, and exclusions.
+2. Collect public evidence from source, documentation, releases, advisories, manifests, and CI/CD workflows.
+3. Generate and validate technical artifacts such as SBOMs and dependency reports.
+4. Record observations as confirmed, partial, not observed, or not assessable from public evidence.
+5. Map regulatory relevance without presenting an independent public review as certification or legal advice.
+6. Propose remediation and verification steps, following coordinated disclosure for security-sensitive findings.
 
-📫 **Let's secure your supply chain:** [LinkedIn](https://www.linkedin.com/in/dario-omerdic/)
+**Professional development:** Preparing for the Microsoft SC-300 exam.
+
+📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/dario-omerdic/)
